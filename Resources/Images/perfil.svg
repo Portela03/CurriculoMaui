@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <defs>
+    <clipPath id="c"><circle cx="120" cy="120" r="120"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="240" height="240" fill="#DCE8FF"/>
+    <!-- corpo -->
+    <path d="M30 240 C30 180 70 160 120 160 C170 160 210 180 210 240 Z" fill="#1E3A8A"/>
+    <path d="M100 160 L120 190 L140 160 Z" fill="#FFFFFF"/>
+    <!-- pescoço -->
+    <rect x="105" y="130" width="30" height="35" rx="10" fill="#E0AC84"/>
+    <!-- rosto -->
+    <ellipse cx="120" cy="100" rx="45" ry="52" fill="#F1C19B"/>
+    <!-- cabelo -->
+    <path d="M73 95 C70 50 100 38 122 40 C150 40 172 58 167 98 C160 78 145 68 120 70 C98 70 82 78 73 95 Z" fill="#3B2A20"/>
+    <!-- olhos -->
+    <circle cx="103" cy="102" r="5" fill="#2B2B2B"/>
+    <circle cx="137" cy="102" r="5" fill="#2B2B2B"/>
+    <!-- sorriso -->
+    <path d="M104 126 Q120 140 136 126" stroke="#8A4B35" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
